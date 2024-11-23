@@ -25,7 +25,7 @@
 
   
 
-**Answer:** (b) Wrapping data and methods into a single unit like a class.
+    **Answer:** (b) Wrapping data and methods into a single unit like a class.
 
   
 
@@ -41,7 +41,7 @@
 
   
 
-**Answer:** (b) It initializes an object and assigns initial values to attributes.
+    **Answer:** (b) It initializes an object and assigns initial values to attributes.
 
   
 
@@ -57,7 +57,7 @@
 
   
 
-**Answer:** (a) A single interface that can represent multiple underlying forms.
+    **Answer:** (a) A single interface that can represent multiple underlying forms.
 
   
 
@@ -73,7 +73,7 @@
 
   
 
-**Answer:** (b) You will get an AttributeError.
+    **Answer:** (b) You will get an AttributeError.
 
   
 
@@ -89,7 +89,7 @@
 
   
 
-**Answer:** (a) OOP is always the best approach for every problem.
+    **Answer:** (a) OOP is always the best approach for every problem.
 
   
 
