@@ -34,7 +34,17 @@
    - **Object:** An instance of a class.
    - **Attributes:** Variables that belong to an object.
    - **Methods:** Functions defined within a class.
-
+   Encapsulation (Enkapsulasi):
+   Membungkus data (atribut) dan metode (fungsi) dalam satu unit (kelas).
+   
+   Abstraction (Abstraksi):
+   Menyembunyikan detail implementasi dan hanya menampilkan fungsi yang diperlukan kepada pengguna.
+   
+   Inheritance (Pewarisan):
+   Membuat kelas baru dari kelas yang sudah ada, sehingga memungkinkan penggunaan ulang kode.
+   
+   Polymorphism (Polimorfisme):
+   Menggunakan antarmuka yang sama untuk berbagai jenis data atau objek.
 ### Step-by-Step Explanation:
 
 1. **What is a Class and Object?**
